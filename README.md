@@ -19,8 +19,7 @@ Seeing as this is an unlabelled dataset in terms of claims frequency/severity, c
 
 📔 Resources used
 Telematics in Auto Insurance - Towards Data Science
-Data Mining for Vehicle Telemetry - University of Warwick Research Paper
-Making the Economics of Telematics Work for Insurers - Casualty Actuarial Society
+
 
 
 Raw features (18 total)
